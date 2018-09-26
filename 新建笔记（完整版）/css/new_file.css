@@ -1,0 +1,81 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+.clearfix:after,.clearfix{
+	clear: both;
+	content: " ";
+}
+#app,.trea{
+	border: 1px solid saddlebrown;
+	margin: 0 auto;
+}
+#app{
+	width: 1000px;
+	height: auto;
+}
+#app h1{
+	text-align: center;
+	margin: 50px;
+}
+.appa{
+	width: 900px;
+	height: auto;
+	margin: 100px auto;
+}
+textarea{
+	font-size: 18px;
+	font-family: simsun;
+}
+.trea{
+	display: block;
+	max-width: 800px;
+	max-height: 150px;
+	width: 800px;
+	height: 150px;
+	outline: none;
+}
+#app a{
+	display: block;
+	width: 100px;
+	height: 40px;
+	float: right;
+	background-color: saddlebrown;
+	color: white;
+	margin: 50px;
+	text-align: center;
+	line-height: 40px;
+}
+.appa h2{
+	display: block;
+	float: left;
+	width: 800px;
+	height: 30px;
+}
+#app p{
+	height: 50px;
+}
+.appa span{
+	float: left;
+	display: block;
+	width: 63px;
+	margin-right: 20px;
+}
+.appa textarea{
+	width: 800px;
+	max-width: 800px;
+	height: 100px;
+	margin: 20px 0 0 83px;
+}
+.appa i{
+	margin: 20px 0 0 83px;
+}
+.appa button{
+	float: right;
+	margin: 20px 20px 0 0;
+	width: 80px;
+	height: 30px;
+	outline: none;
+	background-color: saddlebrown;
+	color: white;
+}
